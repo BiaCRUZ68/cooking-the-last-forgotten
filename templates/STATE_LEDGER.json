@@ -1,0 +1,60 @@
+{
+  "episode": "",
+  "recipe_version": "",
+  "reconstruction_type": "",
+  "kitchen_mode": "",
+  "cast": {
+    "Actor 1": {
+      "reference": "",
+      "visibility": "hands-only",
+      "dominant_hand": "right",
+      "wardrobe": ""
+    }
+  },
+  "operations": [
+    {
+      "id": "OP01",
+      "depends_on": [],
+      "recipe_action": "",
+      "evidence_class": "RECONSTRUCTION",
+      "source_refs": [],
+      "real_process_time": "",
+      "editorial_time_jump": false
+    }
+  ],
+  "shots": [
+    {
+      "id": "S001",
+      "operation_id": "OP01",
+      "narration_excerpt": "",
+      "timeline_start_seconds": 0,
+      "clip_seconds": 8,
+      "vessels_before": [
+        {
+          "id": "bowl-1",
+          "description": "",
+          "position": "",
+          "contents": [],
+          "temperature_stage": ""
+        }
+      ],
+      "left_hand_before": "",
+      "right_hand_before": "",
+      "action": "",
+      "vessels_after": [],
+      "waste_after": [],
+      "left_hand_after": "",
+      "right_hand_after": "",
+      "image_asset": "",
+      "video_asset": "",
+      "status": "planned",
+      "review": {
+        "text_checked": false,
+        "image_inspected": false,
+        "motion_reviewed": false,
+        "audio_listened": false,
+        "issues": []
+      }
+    }
+  ]
+}
